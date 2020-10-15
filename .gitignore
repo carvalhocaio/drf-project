@@ -1,0 +1,8 @@
+.vscode
+.idea
+__pycache__
+Pipfile
+.env
+.venv
+*.sqlite3
+*.sqlite3-journal
